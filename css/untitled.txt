@@ -1,0 +1,14 @@
+#D8D8D8 - gray
+#F2F2F2 - light gray
+#F8E0F7 - pink
+#CECEF6 - blue
+#CEECF5 - blue green
+#CEECF5 - blue green green
+#CEF6D8 - lime
+#E3F6CE - green yellow
+#F5F6CE - yellow
+#F6E3CE - orange
+#F6CECE - red
+
+#FAFAFA - hover
+#FFFFFF - page

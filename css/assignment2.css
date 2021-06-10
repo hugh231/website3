@@ -1,0 +1,376 @@
+@import url(https://fonts.googleapis.com/css?family=Play);
+body {
+	background-color:#585858;
+	padding-top:30px;
+}
+.container {
+	font-family:arial;
+	width:80%;
+	max-width:660px;
+	min-width:0px;
+	margin:0 auto;
+}
+.div1 {
+	float:left;
+	background:#D8D8D8;
+	height:100px;
+	width:100px;
+	margin:0px;
+	font:courier;
+	color:black;
+
+}
+.div1:hover {
+	float:left;
+	background:#CECEF6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div1:active {
+	height:100px;
+	width:100px;
+	float:left;
+	background:#D8D8D8;
+	margin-left:0px;
+
+}
+.div2 {
+	float:left;
+	background:#F2F2F2;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div2:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div2:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div3 {
+	float:left;
+	background:#F8E0F7;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div3:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div3:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div4 {
+	float:left;
+	background:#CECEF6;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div4:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div4:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div5 {
+	float:left;
+	background:#F6E3CE;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div5:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div5:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div6 {
+	float:left;
+	background:#CEECF5;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div6:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div6:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div7 {
+	float:left;
+	background:#CEF6D8;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div7:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div7:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div8 {
+	float:left;
+	background:#CECEF6;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div8:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div8:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div9 {
+	float:left;
+	background:#E3F6CE;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div9:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div9:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div10 {
+	float:left;
+	background:#F5F6CE;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div10:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div10:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div11 {
+	float:left;
+	background:#D8D8D8;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div11:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div11:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div12 {
+	float:left;
+	background:#F6CECE;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div12:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div12:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div13 {
+	float:left;
+	background:#CECEF6;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div13:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div13:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div14 {
+	float:left;
+	background:#D8D8D8;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div14:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div14:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div15 {
+	float:left;
+	background:#F7BE81;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div15:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div15:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div16 {
+	float:left;
+	background:#F8E0F7;
+	height:100px;
+	width:100px;
+		margin-left:0px;
+}
+.div16:hover {
+	float:left;
+	background:#E6E6E6;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div16:active {
+	float:left;
+	background:#FFFFFF;
+	height:100px;
+	width:100px;
+	margin-left:0px;
+}
+.div17 {
+	float:left;
+	background:#D8D8D8;
+	height:0px;
+	width:0px;
+	margin-left:100px;
+	margin-top:20px;
+	text-align:justify;	
+	visibility:hidden;
+}
+.div18 {
+	float:left;
+	background:#D8D8D8;
+	height:0px;
+	width:0px;
+	margin-left:100px;
+	margin-top:20px;
+	text-align:justify;	
+	visibility:hidden;
+}
+h2 {
+	color:white;
+	padding-left:6px;
+}
